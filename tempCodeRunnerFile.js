@@ -1,0 +1,2 @@
+
+    let fu = await s()
